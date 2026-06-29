@@ -1,0 +1,9 @@
+﻿결과변수,결과변수 라벨,모형,표본 N,국가 수,수렴 여부,경고 메시지,공분산 추정,공공부문 계수(log-odds),표준오차,오즈비(OR),OR 95% CI 하한,OR 95% CI 상한,p-value,p-value 표기,유의성,비공공부문 조정예측확률(%),공공부문 조정예측확률(%),"조정확률 차이(%p, 공공-비공공)",Pseudo R²,AIC
+detailed_explanation,상세 설명 제공,Restricted Model 2 (same N),9169,27,True,,Cluster-robust SE by country,-0.2255,0.0813,0.798,0.681,0.936,0.005552245352532093,0.006,**,22.75,19.22,-3.53,0.0532,9175.59
+detailed_explanation,상세 설명 제공,Model 3,9169,27,True,,Cluster-robust SE by country,-0.1772,0.0847,0.838,0.71,0.989,0.03634950179966073,0.036,*,22.49,19.81,-2.67,0.0888,8838.04
+personal_data_access,개인정보 접근권 제공,Restricted Model 2 (same N),9169,27,True,,Cluster-robust SE by country,0.0674,0.092,1.07,0.893,1.281,0.4636362085009572,0.464,,12.99,13.74,0.75,0.0439,6926.37
+personal_data_access,개인정보 접근권 제공,Model 3,9169,27,True,,Cluster-robust SE by country,0.1151,0.0943,1.122,0.933,1.35,0.22200110084843738,0.222,,12.86,14.13,1.27,0.063,6793.53
+automated_analysis_access,자동화 분석 결과 접근권 제공,Restricted Model 2 (same N),9169,27,True,,Cluster-robust SE by country,-0.143,0.1091,0.867,0.7,1.073,0.1899499864760592,0.190,,6.36,5.57,-0.79,0.0407,4155.51
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,9169,27,False,Maximum Likelihood optimization failed to converge. Check mle_retvals,Cluster-robust SE by country,-0.1085,0.1042,0.897,0.731,1.101,0.29775604862952276,0.298,,6.31,5.71,-0.6,0.0498,4121.0
+not_informed,기술 사용 사실 무고지,Restricted Model 2 (same N),9169,27,True,,Cluster-robust SE by country,0.1453,0.0598,1.156,1.028,1.3,0.015115280895696631,0.015,*,41.95,45.15,3.21,0.076,11659.59
+not_informed,기술 사용 사실 무고지,Model 3,9169,27,True,,Cluster-robust SE by country,0.0708,0.0666,1.073,0.942,1.223,0.28735787125560863,0.287,,42.43,43.81,1.38,0.1613,10595.16

@@ -1,0 +1,9 @@
+﻿결과변수,결과변수 라벨,모형,표본 N,공공부문 N,비공공부문 N,국가 수,수렴 여부,경고 메시지
+detailed_explanation,상세 설명 제공,Restricted Model 2 (same N),9169,2492,6677,27,True,
+detailed_explanation,상세 설명 제공,Model 3,9169,2492,6677,27,True,
+personal_data_access,개인정보 접근권 제공,Restricted Model 2 (same N),9169,2492,6677,27,True,
+personal_data_access,개인정보 접근권 제공,Model 3,9169,2492,6677,27,True,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Restricted Model 2 (same N),9169,2492,6677,27,True,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,9169,2492,6677,27,False,Maximum Likelihood optimization failed to converge. Check mle_retvals
+not_informed,기술 사용 사실 무고지,Restricted Model 2 (same N),9169,2492,6677,27,True,
+not_informed,기술 사용 사실 무고지,Model 3,9169,2492,6677,27,True,
