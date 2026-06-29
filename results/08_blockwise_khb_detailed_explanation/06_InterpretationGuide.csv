@@ -1,0 +1,6 @@
+﻿Item,Interpretation
+Blockwise models,"M0-M5 use the same complete-case sample. Observe which added block changes the public-sector coefficient, OR, and adjusted probability difference."
+KHB all controls jointly,Use this to distinguish the raw reduced-to-full change from the rescaling component and the added-covariate component.
+KHB sequential blocks,Shows incremental contributions in the stated theoretical order. Results are order-dependent and should not be interpreted as causal mediation.
+KHB single-block contrasts,Shows how each block changes the coefficient when added to the country-FE baseline alone. These contrasts are not additive.
+Manuscript wording,"Use 'rescaling-adjusted decomposition of the coefficient change' or 'composition-related contribution', not 'causal mediation'."
