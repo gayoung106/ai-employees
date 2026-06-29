@@ -1,0 +1,4 @@
+﻿Item,Interpretation
+Main-table rule,Use only the Baseline (common N) and Adjusted (common N) estimates in the main manuscript table.
+Why common N matters,It ensures that coefficient changes between baseline and adjusted models cannot be attributed to changing sample composition.
+Old unrestricted baselines,"Earlier country-FE-only models estimated on N=10,811 may be retained only as supplementary or appendix checks, not combined with common-N adjusted results in one table."
