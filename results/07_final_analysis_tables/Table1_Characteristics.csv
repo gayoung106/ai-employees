@@ -1,0 +1,38 @@
+﻿Domain,Variable,Non-public sector,Public sector,Difference / Test,p-value,Effect size,Notes
+A. Information disclosure and access,,,,,,,
+,상세 설명 제공,"1,622 (20.49%)",578 (19.97%),-0.52 pp; χ²=0.347,0.556nan,Phi=0.0057,Binary outcome
+,개인정보 접근권 제공,989 (12.49%),352 (12.16%),-0.33 pp; χ²=0.211,0.646nan,Phi=0.0044,Binary outcome
+,자동화 분석 결과 접근권 제공,467 (5.90%),149 (5.15%),-0.75 pp; χ²=2.219,0.136nan,Phi=0.0143,Binary outcome
+,기술 사용 사실 무고지,"3,715 (46.92%)","1,284 (44.37%)",-2.56 pp; χ²=5.573,0.018*,Phi=0.0227,Binary outcome
+,단순 고지,"1,390 (17.56%)",629 (21.73%),+4.18 pp; χ²=24.352,< .001***,Phi=0.0475,Binary outcome
+,,,,,,,
+B. Automated management exposure,,,,,,,
+,자동화 감시 경험,"2,770 (36.63%)",933 (33.89%),-2.74 pp; χ²=6.586,0.010*,Phi=0.0253,Supplementary exposure
+,자동화 성과평가 경험,"2,265 (29.98%)",691 (25.08%),-4.90 pp; χ²=23.723,< .001***,Phi=0.0480,Supplementary exposure
+,,,,,,,
+C. Continuous covariates,,,,,,,
+,연령,44.00 (12.00),45.56 (11.71),+1.57; t=6.122,< .001***,d=0.132,Mean (SD)
+,전일제 교육 종료 연령,20.15 (4.09),22.85 (5.84),+2.70; t=22.615,< .001***,d=0.585,Mean (SD)
+,직무 수행 디지털 역량,2.97 (0.87),3.14 (0.80),+0.17; t=9.231,< .001***,d=0.198,Mean (SD)
+,,,,,,,
+D. Categorical covariates,,,,,,,
+,성별,,,χ²=199.978,< .001***,Cramer's V=0.1360,Category distribution shown below
+,   Man,"4,083 (51.57%)","1,049 (36.25%)",-15.33 pp,,,
+,   Woman,"3,820 (48.25%)","1,840 (63.58%)",+15.33 pp,,,
+,   None of the above / Non-binary / Prefer not to say,14 (0.18%),5 (0.17%),-0.00 pp,,,
+,직업 유형,,,χ²=1062.579,< .001***,Cramer's V=0.3135,Category distribution shown below
+,   Employed professional,478 (6.04%),284 (9.81%),+3.78 pp,,,
+,   General management / director / top management,197 (2.49%),113 (3.90%),+1.42 pp,,,
+,   Middle management / other management,971 (12.26%),816 (28.20%),+15.93 pp,,,
+,   Working mainly at a desk,"1,671 (21.11%)",755 (26.09%),+4.98 pp,,,
+,   Not at a desk but travelling,875 (11.05%),66 (2.28%),-8.77 pp,,,
+,   Service job,"1,032 (13.04%)",547 (18.90%),+5.87 pp,,,
+,   Supervisor,270 (3.41%),39 (1.35%),-2.06 pp,,,
+,   Skilled manual worker,"1,995 (25.20%)",198 (6.84%),-18.36 pp,,,
+,   Other employed manual worker,428 (5.41%),76 (2.63%),-2.78 pp,,,
+,조직 규모,,,χ²=469.964,< .001***,Cramer's V=0.2092,Category distribution shown below
+,   1,212 (2.69%),45 (1.57%),-1.13 pp,,,
+,   2-9,"2,235 (28.40%)",354 (12.33%),-16.07 pp,,,
+,   10-49,"3,112 (39.54%)","1,091 (38.00%)",-1.54 pp,,,
+,   50-250,"1,476 (18.75%)",795 (27.69%),+8.94 pp,,,
+,   More than 250,835 (10.61%),586 (20.41%),+9.80 pp,,,

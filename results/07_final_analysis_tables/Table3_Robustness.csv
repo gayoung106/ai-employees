@@ -1,0 +1,6 @@
+﻿Specification,N,OR [95% CI],p-value,AAPD (pp),Interpretation / note
+Main Model 2,9719,"0.797 [0.678, 0.937]",0.006**,-3.49,"Country FE + demographic, occupational, and workplace controls"
+Restricted Model 2 (same N),9169,"0.798 [0.681, 0.936]",0.006**,-3.53,Same complete-case sample used for Model 3
+Model 3,9169,"0.838 [0.710, 0.989]",0.036*,-2.67,Model 2 + automated monitoring and performance-management exposure
+Weighted Model 2 (w1),9719,"0.799 [0.667, 0.958]",0.015*,-3.43,Weighted pseudo-likelihood sensitivity analysis
+Leave-one-country-out,Model-specific,Range: 0.768–0.816,27/27 replications p < .05,,OR < 1 in 27/27 replications
