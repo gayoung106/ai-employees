@@ -1,0 +1,7 @@
+﻿집단,변수명,변수 라벨,유효 N,예(1) N,예(1) 비율(%)
+전체,automated_monitoring_exposure,자동화 감시 경험,10315,3703,35.9
+전체,automated_performance_management_exposure,자동화 성과평가 경험,10309,2956,28.67
+비공공부문,automated_monitoring_exposure,자동화 감시 경험,7562,2770,36.63
+비공공부문,automated_performance_management_exposure,자동화 성과평가 경험,7554,2265,29.98
+공공부문,automated_monitoring_exposure,자동화 감시 경험,2753,933,33.89
+공공부문,automated_performance_management_exposure,자동화 성과평가 경험,2755,691,25.08

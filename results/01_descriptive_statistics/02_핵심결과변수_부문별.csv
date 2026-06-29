@@ -1,0 +1,16 @@
+﻿집단,변수명,변수 라벨,유효 N,예(1) N,예(1) 비율(%)
+전체,detailed_explanation,상세 설명 제공,10811,2200,20.35
+전체,personal_data_access,개인정보 접근권 제공,10811,1341,12.4
+전체,automated_analysis_access,자동화 분석 결과 접근권 제공,10811,616,5.7
+전체,not_informed,기술 사용 사실 무고지,10811,4999,46.24
+전체,basic_notification_only,단순 고지,10811,2019,18.68
+비공공부문,detailed_explanation,상세 설명 제공,7917,1622,20.49
+비공공부문,personal_data_access,개인정보 접근권 제공,7917,989,12.49
+비공공부문,automated_analysis_access,자동화 분석 결과 접근권 제공,7917,467,5.9
+비공공부문,not_informed,기술 사용 사실 무고지,7917,3715,46.92
+비공공부문,basic_notification_only,단순 고지,7917,1390,17.56
+공공부문,detailed_explanation,상세 설명 제공,2894,578,19.97
+공공부문,personal_data_access,개인정보 접근권 제공,2894,352,12.16
+공공부문,automated_analysis_access,자동화 분석 결과 접근권 제공,2894,149,5.15
+공공부문,not_informed,기술 사용 사실 무고지,2894,1284,44.37
+공공부문,basic_notification_only,단순 고지,2894,629,21.73

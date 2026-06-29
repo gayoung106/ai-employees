@@ -1,0 +1,601 @@
+﻿결과변수,결과변수 라벨,모형,공분산 추정,변수,계수(log-odds),표준오차,오즈비(OR),OR 95% CI 하한,OR 95% CI 상한,p-value,p-value 표기,유의성
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,Intercept,-0.6316,0.0193,0.532,0.512,0.552,9.29782577549817e-234,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.BE],-0.349,0.0052,0.705,0.698,0.713,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.BG],-0.5298,0.0033,0.589,0.585,0.593,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.CY],-0.7238,0.0036,0.485,0.482,0.488,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.CZ],-1.3123,0.0022,0.269,0.268,0.27,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.DE],-0.6656,0.0065,0.514,0.507,0.521,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.DK],-1.028,0.015,0.358,0.347,0.368,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.EE],-0.7028,0.0032,0.495,0.492,0.498,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.ES],-0.9454,0.0038,0.389,0.386,0.391,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.FI],-0.8474,0.0134,0.429,0.417,0.44,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.FR],-1.1733,0.002,0.309,0.308,0.311,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.GR],-1.6969,0.0074,0.183,0.181,0.186,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.HR],-0.9232,0.0017,0.397,0.396,0.399,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.HU],-0.3489,0.0074,0.705,0.695,0.716,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.IE],-0.575,0.0028,0.563,0.56,0.566,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.IT],-0.6847,0.001,0.504,0.503,0.505,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.LT],-0.7715,0.001,0.462,0.461,0.463,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.LU],-0.8467,0.0221,0.429,0.411,0.448,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.LV],-1.0737,0.0004,0.342,0.341,0.342,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.MT],-1.0607,0.0127,0.346,0.338,0.355,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.NL],-1.068,0.0094,0.344,0.337,0.35,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.PL],-0.6478,0.0066,0.523,0.517,0.53,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.PT],-0.8162,0.0039,0.442,0.439,0.445,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.RO],-1.0044,0.0072,0.366,0.361,0.371,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.SE],-0.5722,0.0212,0.564,0.541,0.588,9.847236346542217e-160,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.SI],-0.356,0.0044,0.7,0.694,0.706,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.SK],-0.4127,0.0026,0.662,0.659,0.665,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 1,Cluster-robust SE by country,public_sector,-0.0299,0.0771,0.971,0.834,1.129,0.6982777606009589,0.698,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,Intercept,-1.2962,0.2285,0.274,0.175,0.428,1.416519657455072e-08,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.BE],-0.6267,0.0242,0.534,0.51,0.56,1.7351679337499105e-148,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.BG],-0.4177,0.0226,0.659,0.63,0.688,3.739203036521054e-76,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.CY],-0.7486,0.0222,0.473,0.453,0.494,2.8212221295695818e-248,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.CZ],-1.3681,0.0218,0.255,0.244,0.266,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.DE],-0.5884,0.0169,0.555,0.537,0.574,1.0705212407331646e-265,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.DK],-1.2269,0.0491,0.293,0.266,0.323,5.222657061593469e-138,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.EE],-0.8741,0.0206,0.417,0.401,0.434,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.ES],-1.0293,0.0259,0.357,0.34,0.376,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.FI],-1.0701,0.0422,0.343,0.316,0.373,9.98849055794247e-142,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.FR],-1.2435,0.025,0.288,0.275,0.303,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.GR],-1.603,0.0284,0.201,0.19,0.213,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.HR],-0.8082,0.0238,0.446,0.425,0.467,5.957713102987504e-253,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.HU],-0.1722,0.0218,0.842,0.807,0.879,2.5052305512996852e-15,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.IE],-0.6766,0.0264,0.508,0.483,0.535,2.1256632151655092e-144,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.IT],-0.4756,0.0193,0.621,0.598,0.645,1.4655708882864331e-134,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.LT],-0.9319,0.0233,0.394,0.376,0.412,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.LU],-0.9313,0.0417,0.394,0.363,0.428,1.7545933511870795e-110,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.LV],-1.2157,0.0213,0.297,0.284,0.309,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.MT],-1.3254,0.0331,0.266,0.249,0.283,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.NL],-1.4304,0.0487,0.239,0.217,0.263,2.418185077278609e-189,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.PL],-0.5609,0.0247,0.571,0.544,0.599,3.999556268432922e-114,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.PT],-0.6417,0.0207,0.526,0.505,0.548,3.5648164543070145e-210,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.RO],-0.8308,0.0263,0.436,0.414,0.459,9.4737268436388e-219,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.SE],-0.9238,0.0506,0.397,0.36,0.438,1.4000071635086116e-74,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.SI],-0.4859,0.0201,0.615,0.591,0.64,8.928351844719139e-129,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.SK],-0.3866,0.0193,0.679,0.654,0.706,1.0855505106136873e-89,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(gender)[T.2],0.0887,0.0475,1.093,0.995,1.199,0.06223130115482411,0.062,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(gender)[T.3],0.9762,0.5248,2.654,0.949,7.424,0.06284620221851876,0.063,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.11],0.1467,0.1593,1.158,0.847,1.582,0.357126804053277,0.357,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.12],0.0945,0.1179,1.099,0.872,1.385,0.4228080209588392,0.423,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.13],-0.1477,0.1123,0.863,0.692,1.075,0.1886738269399154,0.189,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.14],-0.2349,0.1597,0.791,0.578,1.081,0.14134235234435352,0.141,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.15],-0.137,0.1422,0.872,0.66,1.152,0.3356502333490854,0.336,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.16],-0.3952,0.2389,0.674,0.422,1.076,0.09804329683743883,0.098,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.17],-0.4545,0.1491,0.635,0.474,0.85,0.002301534737379024,0.002,**
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.18],-1.0839,0.2084,0.338,0.225,0.509,1.9806236746900373e-07,< .001,***
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.2],-0.4413,0.2289,0.643,0.411,1.007,0.05389698463010496,0.054,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.3],-0.1954,0.2302,0.822,0.524,1.291,0.3958930537288732,0.396,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.4],-0.0682,0.2352,0.934,0.589,1.481,0.7718192640591167,0.772,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.5],-0.1705,0.2235,0.843,0.544,1.307,0.4456796574919366,0.446,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,public_sector,-0.2267,0.0825,0.797,0.678,0.937,0.0060149466575214324,0.006,**
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,age,-0.0032,0.0023,0.997,0.992,1.001,0.17068289673533388,0.171,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,education_age,-0.0041,0.0065,0.996,0.983,1.009,0.5313854324781175,0.531,
+detailed_explanation,상세 설명 제공,Model 2,Cluster-robust SE by country,digital_skill_job,0.438,0.053,1.55,1.397,1.719,1.322760798441061e-16,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,Intercept,-1.565,0.2304,0.209,0.133,0.328,1.1145634159164672e-11,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.BE],-0.6634,0.025,0.515,0.49,0.541,8.03605571599674e-155,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.BG],-0.4452,0.0288,0.641,0.606,0.678,5.835166778925686e-54,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.CY],-0.8947,0.0282,0.409,0.387,0.432,1.2148721562039672e-221,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.CZ],-1.2553,0.0294,0.285,0.269,0.302,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.DE],-0.5224,0.0261,0.593,0.564,0.624,3.385301351745259e-89,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.DK],-1.0807,0.0598,0.339,0.302,0.382,4.6635803647198533e-73,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.EE],-0.9538,0.0228,0.385,0.368,0.403,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.ES],-1.0813,0.0252,0.339,0.323,0.356,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.FI],-1.1668,0.0471,0.311,0.284,0.342,2.941259026786377e-135,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.FR],-1.2823,0.0259,0.277,0.264,0.292,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.GR],-1.5392,0.0281,0.215,0.203,0.227,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.HR],-0.8953,0.0238,0.408,0.39,0.428,1.29774250190547e-308,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.HU],-0.2759,0.0234,0.759,0.725,0.795,5.209955996896875e-32,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.IE],-0.7861,0.0277,0.456,0.432,0.481,3.4293212024948595e-177,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.IT],-0.5934,0.022,0.552,0.529,0.577,2.3778591430296418e-160,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.LT],-0.9225,0.0281,0.398,0.376,0.42,4.523053959041704e-236,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.LU],-0.9208,0.044,0.398,0.365,0.434,4.061824606716817e-97,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.LV],-1.222,0.0251,0.295,0.281,0.31,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.MT],-1.4522,0.0379,0.234,0.217,0.252,0.0,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.NL],-1.2477,0.0685,0.287,0.251,0.328,4.253872514587619e-74,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.PL],-0.6104,0.0246,0.543,0.518,0.57,4.762181269491205e-136,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.PT],-0.6297,0.0203,0.533,0.512,0.554,2.4967074234864187e-211,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.RO],-1.1199,0.041,0.326,0.301,0.354,2.418505573068478e-164,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.SE],-0.7799,0.0621,0.458,0.406,0.518,3.33508548448871e-36,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.SI],-0.4807,0.0276,0.618,0.586,0.653,1.007888169549e-67,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.SK],-0.4377,0.0213,0.645,0.619,0.673,2.799994036003608e-94,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(gender)[T.2],0.0748,0.0549,1.078,0.968,1.2,0.17348593131171774,0.173,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(gender)[T.3],0.7452,0.5607,2.107,0.702,6.323,0.18386565236128283,0.184,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.11],0.1155,0.1829,1.122,0.784,1.606,0.527978642002772,0.528,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.12],0.1614,0.1248,1.175,0.92,1.501,0.19588186806198593,0.196,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.13],-0.1201,0.1108,0.887,0.714,1.102,0.278330408099858,0.278,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.14],-0.2867,0.1683,0.751,0.54,1.044,0.08853896644163606,0.089,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.15],-0.1412,0.1598,0.868,0.635,1.188,0.3770591413967791,0.377,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.16],-0.4208,0.2385,0.657,0.411,1.048,0.07776283628870664,0.078,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.17],-0.4513,0.1549,0.637,0.47,0.863,0.003575252851620184,0.004,**
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.18],-1.086,0.1786,0.338,0.238,0.479,1.204444419621189e-09,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.2],-0.4178,0.2444,0.659,0.408,1.063,0.0873641196809062,0.087,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.3],-0.2,0.237,0.819,0.515,1.303,0.39880677314576685,0.399,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.4],-0.0863,0.2395,0.917,0.574,1.467,0.7186542996733185,0.719,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.5],-0.2217,0.234,0.801,0.506,1.267,0.3433651639275138,0.343,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,public_sector,-0.1772,0.0847,0.838,0.71,0.989,0.03634950179966073,0.036,*
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,age,-0.0026,0.0021,0.997,0.993,1.002,0.22358472777052485,0.224,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,education_age,-0.0008,0.0066,0.999,0.986,1.012,0.9005183455014534,0.901,
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,digital_skill_job,0.3621,0.0528,1.436,1.295,1.593,6.853635209072184e-12,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,automated_monitoring_exposure,0.5701,0.0795,1.768,1.513,2.066,7.285935943513191e-13,< .001,***
+detailed_explanation,상세 설명 제공,Model 3,Cluster-robust SE by country,automated_performance_management_exposure,0.5896,0.1135,1.803,1.444,2.252,2.025404511073363e-07,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,Intercept,-1.4002,0.0239,0.247,0.235,0.258,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.BE],-0.5722,0.0066,0.564,0.557,0.572,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.BG],-0.8168,0.0038,0.442,0.439,0.445,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.CY],-0.7941,0.0047,0.452,0.448,0.456,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.CZ],-0.765,0.0023,0.465,0.463,0.467,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.DE],-0.0627,0.0078,0.939,0.925,0.954,1.0578682126682018e-15,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.DK],-1.6424,0.0189,0.194,0.186,0.201,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.EE],-0.5716,0.0036,0.565,0.561,0.569,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.ES],-1.0335,0.0043,0.356,0.353,0.359,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.FI],-0.4151,0.0166,0.66,0.639,0.682,9.398742423549493e-139,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.FR],-0.827,0.0028,0.437,0.435,0.44,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.GR],-2.1766,0.0086,0.113,0.112,0.115,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.HR],-0.2417,0.0023,0.785,0.782,0.789,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.HU],-0.4421,0.009,0.643,0.631,0.654,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.IE],-1.4302,0.0039,0.239,0.237,0.241,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.IT],-0.3989,0.001,0.671,0.67,0.672,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.LT],-0.6644,0.001,0.515,0.514,0.516,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.LU],-0.7876,0.0271,0.455,0.431,0.48,1.7468113173807655e-185,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.LV],-1.4327,0.0,0.239,0.239,0.239,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.MT],-0.7499,0.0159,0.472,0.458,0.487,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.NL],-0.1583,0.0117,0.854,0.834,0.873,1.7938053612005913e-41,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.PL],-0.3753,0.0079,0.687,0.677,0.698,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.PT],-1.2033,0.0044,0.3,0.298,0.303,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.RO],0.2977,0.0087,1.347,1.324,1.37,3.770834340965291e-255,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.SE],-1.2361,0.0261,0.291,0.276,0.306,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.SI],-0.9683,0.0056,0.38,0.376,0.384,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.SK],-0.475,0.0034,0.622,0.618,0.626,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 1,Cluster-robust SE by country,public_sector,0.0544,0.0923,1.056,0.881,1.265,0.5553258349017152,0.555,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,Intercept,-0.977,0.5159,0.376,0.137,1.035,0.05823934995977299,0.058,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.BE],-1.0126,0.0383,0.363,0.337,0.392,1.1620913327835867e-153,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.BG],-0.7708,0.0483,0.463,0.421,0.509,3.097865534775608e-57,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.CY],-1.0323,0.0438,0.356,0.327,0.388,6.349658722658268e-123,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.CZ],-0.8663,0.0372,0.421,0.391,0.452,5.6011588902033704e-120,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.DE],-0.0747,0.0291,0.928,0.877,0.983,0.01036916882980487,0.010,*
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.DK],-1.7363,0.0935,0.176,0.147,0.212,5.732884698029634e-77,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.EE],-0.6078,0.0393,0.545,0.504,0.588,5.256330945917045e-54,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.ES],-1.072,0.0356,0.342,0.319,0.367,1.1530515799241697e-199,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.FI],-0.5284,0.0782,0.59,0.506,0.687,1.4440394139442802e-11,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.FR],-0.9157,0.0248,0.4,0.381,0.42,2.5451562744609896e-298,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.GR],-2.1918,0.0568,0.112,0.1,0.125,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.HR],-0.3578,0.0389,0.699,0.648,0.755,3.77847890985264e-20,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.HU],-0.4582,0.0488,0.632,0.575,0.696,5.567518341184164e-21,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.IE],-1.4765,0.0356,0.228,0.213,0.245,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.IT],-0.5156,0.0301,0.597,0.563,0.633,8.8594353987303e-66,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.LT],-0.6913,0.0401,0.501,0.463,0.542,1.0097390252182212e-66,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.LU],-0.8625,0.0523,0.422,0.381,0.468,4.817476372492517e-61,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.LV],-1.6317,0.0357,0.196,0.182,0.21,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.MT],-0.9772,0.0457,0.376,0.344,0.412,2.0879068795763404e-101,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.NL],-0.2496,0.0776,0.779,0.669,0.907,0.0012958104614343758,0.001,**
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.PL],-0.4384,0.0543,0.645,0.58,0.718,7.190814889712182e-16,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.PT],-1.1545,0.0423,0.315,0.29,0.342,1.0645043461950281e-163,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.RO],0.2394,0.0674,1.271,1.113,1.45,0.0003834263891340281,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.SE],-1.4056,0.0895,0.245,0.206,0.292,1.354797545435885e-55,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.SI],-1.0553,0.0295,0.348,0.329,0.369,4.595121351526247e-280,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.SK],-0.4763,0.0295,0.621,0.586,0.658,1.6571799618287945e-58,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(gender)[T.2],0.0933,0.0783,1.098,0.942,1.28,0.23351607766781401,0.234,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(gender)[T.3],0.242,0.7841,1.274,0.274,5.923,0.7575777378693558,0.758,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.11],0.1364,0.2392,1.146,0.717,1.832,0.5683488438326685,0.568,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.12],-0.1958,0.1806,0.822,0.577,1.171,0.2782547263573495,0.278,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.13],-0.1223,0.189,0.885,0.611,1.282,0.5176235666771037,0.518,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.14],0.0409,0.1892,1.042,0.719,1.509,0.8289722489941105,0.829,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.15],-0.2306,0.1746,0.794,0.564,1.118,0.18662348147202013,0.187,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.16],0.109,0.2592,1.115,0.671,1.854,0.6740795323176842,0.674,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.17],-0.2135,0.1789,0.808,0.569,1.147,0.23272359353093663,0.233,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.18],-0.3673,0.3402,0.693,0.356,1.349,0.2802948938226262,0.280,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.2],-0.0638,0.2413,0.938,0.585,1.506,0.7915116707917119,0.792,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.3],-0.2364,0.2461,0.789,0.487,1.279,0.33672444949873004,0.337,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.4],0.0279,0.2277,1.028,0.658,1.607,0.9022993896597763,0.902,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.5],-0.2373,0.2406,0.789,0.492,1.264,0.32400967798989666,0.324,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,public_sector,0.0426,0.0952,1.044,0.866,1.258,0.6542827979117078,0.654,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,age,-0.0076,0.0026,0.992,0.987,0.998,0.0037871586563409596,0.004,**
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,education_age,0.02,0.0128,1.02,0.995,1.046,0.11701859458623669,0.117,
+personal_data_access,개인정보 접근권 제공,Model 2,Cluster-robust SE by country,digital_skill_job,-0.0587,0.0499,0.943,0.855,1.04,0.23894915232790648,0.239,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,Intercept,-1.1053,0.4802,0.331,0.129,0.849,0.021349331989528167,0.021,*
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.BE],-1.0074,0.0425,0.365,0.336,0.397,3.702249491441612e-124,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.BG],-0.6809,0.049,0.506,0.46,0.557,5.973271139901602e-44,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.CY],-1.0635,0.0459,0.345,0.316,0.378,1.5155571393833327e-118,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.CZ],-0.7413,0.0503,0.476,0.432,0.526,3.1167389429738508e-49,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.DE],0.0468,0.0358,1.048,0.977,1.124,0.19064855856862628,0.191,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.DK],-1.553,0.0981,0.212,0.175,0.256,1.769831697822118e-56,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.EE],-0.5618,0.0381,0.57,0.529,0.614,3.806531892735769e-49,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.ES],-1.0537,0.0367,0.349,0.324,0.375,7.567201462841229e-181,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.FI],-0.5331,0.0714,0.587,0.51,0.675,8.179381729386326e-14,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.FR],-0.8682,0.0252,0.42,0.399,0.441,1.6834296016783992e-259,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.GR],-2.1982,0.0554,0.111,0.1,0.124,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.HR],-0.4031,0.0381,0.668,0.62,0.72,4.0948960135518455e-26,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.HU],-0.4831,0.0473,0.617,0.562,0.677,1.5494015598461661e-24,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.IE],-1.5993,0.0357,0.202,0.188,0.217,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.IT],-0.5737,0.033,0.563,0.528,0.601,1.6214624389781012e-67,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.LT],-0.5848,0.0453,0.557,0.51,0.609,4.05787932981307e-38,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.LU],-0.8819,0.0575,0.414,0.37,0.463,4.262348459953243e-53,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.LV],-1.7437,0.0354,0.175,0.163,0.187,0.0,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.MT],-0.991,0.057,0.371,0.332,0.415,1.3770745379143317e-67,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.NL],-0.0197,0.1038,0.98,0.8,1.202,0.8490762455403682,0.849,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.PL],-0.432,0.0486,0.649,0.59,0.714,6.596685766192082e-19,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.PT],-1.0855,0.0445,0.338,0.31,0.369,1.7050928287219486e-131,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.RO],0.0666,0.0707,1.069,0.931,1.228,0.34580574454650315,0.346,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.SE],-1.1976,0.0975,0.302,0.249,0.366,1.2045916267420046e-34,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.SI],-1.0073,0.0366,0.365,0.34,0.392,1.4292854403761176e-166,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.SK],-0.5275,0.0285,0.59,0.558,0.624,1.0952647530683237e-76,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(gender)[T.2],0.0804,0.076,1.084,0.934,1.258,0.2897770430553389,0.290,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(gender)[T.3],0.0769,0.8477,1.08,0.205,5.688,0.9277541481719563,0.928,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.11],0.1391,0.2329,1.149,0.728,1.814,0.5503536682223388,0.550,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.12],-0.1518,0.1776,0.859,0.607,1.217,0.3928665998698233,0.393,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.13],-0.0777,0.1937,0.925,0.633,1.352,0.6882571022364484,0.688,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.14],0.0212,0.2067,1.021,0.681,1.532,0.9184672952751018,0.918,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.15],-0.1579,0.1768,0.854,0.604,1.208,0.37173646186329334,0.372,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.16],0.0437,0.2721,1.045,0.613,1.781,0.8724943433727028,0.872,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.17],-0.1935,0.1936,0.824,0.564,1.204,0.31760371677711197,0.318,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.18],-0.2538,0.2967,0.776,0.434,1.388,0.3922820768879367,0.392,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.2],-0.024,0.2421,0.976,0.607,1.569,0.9211338888607883,0.921,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.3],-0.2217,0.2453,0.801,0.495,1.296,0.36625566396894393,0.366,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.4],0.0396,0.2248,1.04,0.67,1.616,0.8603398519956355,0.860,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.5],-0.2845,0.2315,0.752,0.478,1.184,0.21899689480129725,0.219,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,public_sector,0.1151,0.0943,1.122,0.933,1.35,0.22200110084843738,0.222,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,age,-0.0081,0.0028,0.992,0.987,0.997,0.003556223202218516,0.004,**
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,education_age,0.0211,0.0116,1.021,0.998,1.045,0.06938300694651207,0.069,
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,digital_skill_job,-0.1469,0.0508,0.863,0.782,0.954,0.003872033536344983,0.004,**
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,automated_monitoring_exposure,0.3303,0.0795,1.391,1.191,1.626,3.247746912744406e-05,< .001,***
+personal_data_access,개인정보 접근권 제공,Model 3,Cluster-robust SE by country,automated_performance_management_exposure,0.553,0.1019,1.738,1.424,2.123,5.7832843307923494e-08,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,Intercept,-2.3627,0.0237,0.094,0.09,0.099,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.BE],-0.8497,0.0065,0.428,0.422,0.433,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.BG],-0.5511,0.004,0.576,0.572,0.581,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.CY],-0.6915,0.0045,0.501,0.496,0.505,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.CZ],-0.4653,0.0025,0.628,0.625,0.631,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.DE],0.3193,0.0078,1.376,1.355,1.397,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.DK],-0.1578,0.019,0.854,0.823,0.886,9.251506054617212e-17,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.EE],-0.6357,0.0039,0.53,0.526,0.534,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.ES],-1.0311,0.0046,0.357,0.353,0.36,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.FI],-0.9281,0.0167,0.395,0.383,0.408,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.FR],-1.3525,0.0025,0.259,0.257,0.26,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.GR],-2.3128,0.009,0.099,0.097,0.101,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.HR],-0.4573,0.0022,0.633,0.63,0.636,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.HU],-0.3538,0.0091,0.702,0.69,0.715,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.IE],-1.3624,0.0035,0.256,0.254,0.258,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.IT],-0.1441,0.0011,0.866,0.864,0.868,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.LT],-0.1672,0.0012,0.846,0.844,0.848,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.LU],-0.8956,0.0277,0.408,0.387,0.431,1.1169660409979867e-228,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.LV],-1.3219,0.0004,0.267,0.266,0.267,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.MT],-1.3311,0.0159,0.264,0.256,0.273,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.NL],-0.2864,0.0119,0.751,0.734,0.769,3.92062576501605e-128,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.PL],-0.3445,0.008,0.709,0.698,0.72,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.PT],-0.6264,0.0047,0.534,0.53,0.539,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.RO],0.3795,0.0086,1.461,1.437,1.486,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.SE],-0.5037,0.0267,0.604,0.574,0.637,1.200413526267811e-79,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.SI],-1.0315,0.0054,0.356,0.353,0.36,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,C(country_fe)[T.SK],-0.3946,0.0032,0.674,0.67,0.678,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 1,Cluster-robust SE by country,public_sector,-0.0625,0.0975,0.939,0.776,1.137,0.5215525174743663,0.522,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,Intercept,-2.6436,0.7373,0.071,0.017,0.302,0.0003363186817422458,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.BE],-0.8809,0.0372,0.414,0.385,0.446,7.152030348450946e-124,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.BG],-0.4068,0.0473,0.666,0.607,0.73,8.310458081070261e-18,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.CY],-0.7625,0.0534,0.467,0.42,0.518,3.105040120075863e-46,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.CZ],-0.3015,0.0372,0.74,0.688,0.796,5.721314752211017e-16,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.DE],0.3044,0.0342,1.356,1.268,1.45,5.162291624357075e-19,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.DK],-0.0695,0.0884,0.933,0.784,1.109,0.4313960139141898,0.431,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.EE],-0.7409,0.0463,0.477,0.435,0.522,1.1137753791670753e-57,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.ES],-0.9957,0.057,0.369,0.33,0.413,2.7486709952108925e-68,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.FI],-1.0886,0.0693,0.337,0.294,0.386,1.4531483465157077e-55,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.FR],-1.2695,0.0314,0.281,0.264,0.299,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.GR],-2.2177,0.056,0.109,0.098,0.121,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.HR],-0.3837,0.0392,0.681,0.631,0.736,1.3169989344438643e-22,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.HU],-0.2593,0.0475,0.772,0.703,0.847,4.6815507844127636e-08,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.IE],-1.2616,0.0405,0.283,0.262,0.307,7.444870212329245e-213,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.IT],-0.1025,0.0324,0.903,0.847,0.962,0.0015725539555986121,0.002,**
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.LT],-0.1115,0.0437,0.895,0.821,0.974,0.010721442400248821,0.011,*
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.LU],-0.8243,0.0535,0.439,0.395,0.487,1.4222068095534638e-53,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.LV],-1.3263,0.048,0.265,0.242,0.292,4.412341198601505e-168,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.MT],-1.2442,0.0481,0.288,0.262,0.317,1.800111040837287e-147,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.NL],-0.261,0.0844,0.77,0.653,0.909,0.001980906938906057,0.002,**
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.PL],-0.4091,0.057,0.664,0.594,0.743,7.209447040550921e-13,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.PT],-0.4305,0.0477,0.65,0.592,0.714,1.840679368796556e-19,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.RO],0.4135,0.0616,1.512,1.34,1.706,1.923791854752789e-11,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.SE],-0.5027,0.0933,0.605,0.504,0.726,7.042582944261447e-08,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.SI],-1.0733,0.0334,0.342,0.32,0.365,4.552006573196816e-226,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(country_fe)[T.SK],-0.3516,0.0303,0.704,0.663,0.747,4.4499472587698784e-31,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(gender)[T.2],0.1508,0.1226,1.163,0.915,1.479,0.2184230478869239,0.218,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(gender)[T.3],-45.2331,0.417,0.0,0.0,0.0,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.11],0.1734,0.2603,1.189,0.714,1.981,0.5051808662328452,0.505,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.12],0.0865,0.2363,1.09,0.686,1.732,0.71444294881353,0.714,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.13],-0.2782,0.1901,0.757,0.522,1.099,0.14330789046872772,0.143,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.14],-0.1593,0.1829,0.853,0.596,1.22,0.38380206537453354,0.384,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.15],-0.4517,0.2553,0.637,0.386,1.05,0.07686365070418422,0.077,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.16],-0.0759,0.2508,0.927,0.567,1.515,0.7623094861184686,0.762,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.17],-0.1535,0.1955,0.858,0.585,1.258,0.43247297151751707,0.432,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(occupation_code)[T.18],-0.8049,0.2167,0.447,0.292,0.684,0.00020382269177496884,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.2],0.8292,0.4827,2.291,0.89,5.901,0.08580729766217972,0.086,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.3],0.6864,0.492,1.986,0.757,5.21,0.16298399940017105,0.163,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.4],0.5913,0.5125,1.806,0.661,4.933,0.24864192389735462,0.249,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,C(workplace_size)[T.5],0.797,0.5281,2.219,0.788,6.247,0.13128728609079246,0.131,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,public_sector,-0.1438,0.0995,0.866,0.713,1.053,0.1484067748183241,0.148,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,age,-0.0079,0.0052,0.992,0.982,1.002,0.12875363174998308,0.129,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,education_age,0.0057,0.0089,1.006,0.988,1.023,0.5234680518459122,0.523,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 2,Cluster-robust SE by country,digital_skill_job,-0.0257,0.0918,0.975,0.814,1.167,0.7798232712935046,0.780,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,Intercept,-3.0255,0.7383,0.049,0.011,0.206,4.1724114096519026e-05,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.BE],-0.7885,0.0409,0.455,0.419,0.492,1.0564196050912301e-82,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.BG],-0.2929,0.0547,0.746,0.67,0.831,8.482136475016936e-08,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.CY],-0.8222,0.062,0.439,0.389,0.496,3.784360227979006e-40,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.CZ],-0.1227,0.0428,0.885,0.813,0.962,0.0041211646435879296,0.004,**
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.DE],0.4866,0.0412,1.627,1.501,1.763,2.95726711648828e-32,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.DK],0.0983,0.0884,1.103,0.928,1.312,0.2663156541936599,0.266,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.EE],-0.6783,0.0498,0.507,0.46,0.56,3.5544540134993216e-42,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.ES],-0.8447,0.0611,0.43,0.381,0.484,1.8314938752781874e-43,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.FI],-0.9574,0.0692,0.384,0.335,0.44,1.532757018885748e-43,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.FR],-1.162,0.0323,0.313,0.294,0.333,1.9653064175433298e-283,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.GR],-2.048,0.0637,0.129,0.114,0.146,6.432792521078135e-227,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.HR],-0.3089,0.0442,0.734,0.673,0.801,2.6712580516600373e-12,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.HU],-0.2033,0.0433,0.816,0.75,0.888,2.642461362771577e-06,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.IE],-1.3013,0.0474,0.272,0.248,0.299,1.3046572303298107e-165,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.IT],-0.0697,0.0315,0.933,0.877,0.992,0.027017232433842592,0.027,*
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.LT],0.0415,0.0517,1.042,0.942,1.154,0.4219439326051809,0.422,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.LU],-0.7997,0.0577,0.449,0.401,0.503,1.2814314671118181e-43,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.LV],-1.1583,0.0535,0.314,0.283,0.349,6.022283255687075e-104,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.MT],-1.1635,0.0539,0.312,0.281,0.347,2.352517506812338e-103,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.NL],-0.0588,0.0802,0.943,0.806,1.103,0.46356616034690945,0.464,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.PL],-0.3194,0.0565,0.727,0.65,0.812,1.5402599330705234e-08,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.PT],-0.2902,0.0506,0.748,0.678,0.826,9.639850177952238e-09,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.RO],0.3553,0.0571,1.427,1.276,1.596,4.987614900916573e-10,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.SE],-0.2338,0.0976,0.792,0.654,0.958,0.016585612348239527,0.017,*
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.SI],-0.9718,0.0384,0.378,0.351,0.408,1.7149226138049162e-141,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(country_fe)[T.SK],-0.2712,0.0323,0.762,0.716,0.812,4.789511203208537e-17,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(gender)[T.2],0.1404,0.1286,1.151,0.894,1.481,0.27494269068601296,0.275,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(gender)[T.3],-29.2798,0.4626,0.0,0.0,0.0,0.0,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.11],0.1347,0.2805,1.144,0.66,1.983,0.6310718830707079,0.631,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.12],0.1487,0.2431,1.16,0.721,1.869,0.5406541957765439,0.541,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.13],-0.2134,0.2084,0.808,0.537,1.215,0.30582196400796635,0.306,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.14],-0.1139,0.2056,0.892,0.596,1.335,0.5795916578304188,0.580,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.15],-0.3685,0.2706,0.692,0.407,1.176,0.1732752578501484,0.173,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.16],-0.0953,0.2631,0.909,0.543,1.523,0.7171136487065373,0.717,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.17],-0.0796,0.2198,0.923,0.6,1.421,0.7172563732115349,0.717,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(occupation_code)[T.18],-0.7444,0.2201,0.475,0.309,0.731,0.0007182042787453343,< .001,***
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.2],0.8823,0.4901,2.416,0.925,6.315,0.0718534745685264,0.072,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.3],0.7311,0.4914,2.077,0.793,5.443,0.13683427418301447,0.137,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.4],0.6289,0.5173,1.875,0.68,5.17,0.22414149080543055,0.224,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,C(workplace_size)[T.5],0.8312,0.527,2.296,0.817,6.451,0.1147382117927762,0.115,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,public_sector,-0.1085,0.1042,0.897,0.731,1.101,0.29775604862952243,0.298,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,age,-0.0068,0.0052,0.993,0.983,1.003,0.19134443481579633,0.191,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,education_age,0.0095,0.008,1.01,0.994,1.026,0.23470473471659214,0.235,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,digital_skill_job,-0.0809,0.0879,0.922,0.776,1.096,0.3576286158204586,0.358,
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,automated_monitoring_exposure,0.2751,0.1079,1.317,1.066,1.627,0.010766222025320332,0.011,*
+automated_analysis_access,자동화 분석 결과 접근권 제공,Model 3,Cluster-robust SE by country,automated_performance_management_exposure,0.3875,0.1103,1.473,1.187,1.829,0.00044465736025587927,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,Intercept,-0.6681,0.0143,0.513,0.499,0.527,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.BE],0.5821,0.0042,1.79,1.775,1.805,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.BG],0.6767,0.0022,1.967,1.959,1.976,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.CY],0.6519,0.003,1.919,1.908,1.93,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.CZ],0.9453,0.0012,2.574,2.568,2.58,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.DE],0.3149,0.0047,1.37,1.358,1.383,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.DK],0.7798,0.0117,2.181,2.132,2.232,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.EE],0.2864,0.0022,1.332,1.326,1.337,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.ES],0.8048,0.0025,2.236,2.225,2.247,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.FI],-0.0958,0.01,0.909,0.891,0.927,1.2217319628475833e-21,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.FR],0.8369,0.0019,2.309,2.301,2.318,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.GR],1.6972,0.0049,5.459,5.406,5.512,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.HR],0.872,0.0017,2.392,2.384,2.4,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.HU],0.5998,0.0053,1.822,1.803,1.841,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.IE],0.5269,0.0024,1.694,1.686,1.701,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.IT],0.7553,0.0004,2.128,2.127,2.13,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.LT],0.3512,0.0006,1.421,1.419,1.422,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.LU],0.1209,0.0166,1.129,1.092,1.166,3.480864072424199e-13,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.LV],0.3869,0.0001,1.472,1.472,1.473,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.MT],0.2248,0.0097,1.252,1.229,1.276,1.3433732166235618e-119,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.NL],0.4598,0.0073,1.584,1.561,1.607,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.PL],0.5991,0.0046,1.821,1.804,1.837,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.PT],1.0243,0.0025,2.785,2.771,2.799,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.RO],0.1259,0.0052,1.134,1.123,1.146,1.7309376812212358e-129,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.SE],0.4923,0.0161,1.636,1.585,1.689,5.76523154341982e-205,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.SI],0.2338,0.0034,1.263,1.255,1.272,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.SK],0.1708,0.002,1.186,1.182,1.191,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 1,Cluster-robust SE by country,public_sector,-0.0638,0.0575,0.938,0.838,1.05,0.2678346773045722,0.268,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,Intercept,0.3921,0.2815,1.48,0.852,2.57,0.16369566408171599,0.164,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.BE],0.8329,0.0199,2.3,2.212,2.391,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.BG],0.5474,0.0226,1.729,1.654,1.807,4.908099790025182e-130,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.CY],0.7564,0.0219,2.131,2.041,2.224,2.614786605150054e-262,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.CZ],1.0249,0.0235,2.787,2.661,2.918,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.DE],0.1686,0.022,1.184,1.134,1.236,1.878268454016281e-14,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.DK],1.0758,0.0453,2.932,2.683,3.205,2.028872086536161e-124,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.EE],0.4353,0.021,1.545,1.483,1.61,2.503988705348822e-95,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.ES],0.927,0.0261,2.527,2.401,2.66,4.710631667735381e-276,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.FI],0.2313,0.039,1.26,1.168,1.36,2.9477750669780343e-09,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.FR],1.0011,0.0151,2.721,2.642,2.803,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.GR],1.7411,0.0251,5.704,5.43,5.991,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.HR],0.779,0.022,2.179,2.087,2.275,8.819199812572805e-274,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.HU],0.3834,0.0281,1.467,1.389,1.55,2.2019719151922466e-42,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.IE],0.645,0.0174,1.906,1.842,1.972,6.941059557014843e-300,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.IT],0.691,0.0189,1.996,1.923,2.071,2.2101387058467107e-292,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.LT],0.5135,0.0237,1.671,1.595,1.75,2.9628697017079914e-104,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.LU],0.27,0.0285,1.31,1.239,1.385,2.9917380016180244e-21,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.LV],0.5135,0.0217,1.671,1.602,1.744,1.5844287424174706e-123,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.MT],0.504,0.0271,1.655,1.57,1.746,4.890791720117123e-77,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.NL],0.9923,0.0486,2.697,2.452,2.967,1.5551179619807524e-92,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.PL],0.5596,0.0261,1.75,1.663,1.842,2.9206849700777834e-102,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.PT],0.7956,0.0213,2.216,2.125,2.31,3.171188206558125e-306,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.RO],-0.1029,0.0396,0.902,0.835,0.975,0.009272199779852176,0.009,**
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.SE],0.9816,0.0561,2.669,2.391,2.979,1.418160372868645e-68,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.SI],0.4016,0.0154,1.494,1.45,1.54,3.969221544001352e-149,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.SK],0.0422,0.0206,1.043,1.002,1.086,0.040240820195502236,0.040,*
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(gender)[T.2],-0.0713,0.0605,0.931,0.827,1.048,0.2387421790502976,0.239,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(gender)[T.3],-0.7547,0.4755,0.47,0.185,1.194,0.11246360477919974,0.112,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.11],-0.3808,0.1329,0.683,0.527,0.887,0.004174987231394182,0.004,**
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.12],-0.1168,0.1142,0.89,0.711,1.113,0.3063104590541674,0.306,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.13],0.217,0.1182,1.242,0.985,1.566,0.06642232887432242,0.066,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.14],0.1411,0.1416,1.152,0.873,1.52,0.31873662239982514,0.319,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.15],0.2998,0.1489,1.35,1.008,1.807,0.044076165492248645,0.044,*
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.16],0.2381,0.1954,1.269,0.865,1.861,0.22293357629358002,0.223,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.17],0.4811,0.143,1.618,1.222,2.141,0.000765592032366256,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.18],0.8844,0.1864,2.422,1.681,3.49,2.086666570804362e-06,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(workplace_size)[T.2],0.0194,0.1752,1.02,0.723,1.437,0.9119057105702624,0.912,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(workplace_size)[T.3],-0.1262,0.1754,0.881,0.625,1.243,0.4720108987280356,0.472,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(workplace_size)[T.4],-0.3016,0.1855,0.74,0.514,1.064,0.1039400755587342,0.104,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,C(workplace_size)[T.5],-0.2653,0.1806,0.767,0.538,1.093,0.1418172642272471,0.142,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,public_sector,0.1517,0.0606,1.164,1.033,1.311,0.01238882195202738,0.012,*
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,age,0.0084,0.0019,1.008,1.005,1.012,6.007441260646484e-06,< .001,***
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,education_age,-0.0061,0.0054,0.994,0.984,1.005,0.2603916983871367,0.260,
+not_informed,기술 사용 사실 무고지,Model 2,Cluster-robust SE by country,digital_skill_job,-0.5133,0.0582,0.599,0.534,0.671,1.122727517345468e-18,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,Intercept,0.8312,0.2983,2.296,1.28,4.12,0.005330968941871847,0.005,**
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.BE],0.9339,0.0199,2.544,2.447,2.645,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.BG],0.487,0.0219,1.627,1.559,1.699,2.0979843062172225e-109,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.CY],0.9764,0.0319,2.655,2.494,2.826,1.1274707527099194e-205,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.CZ],0.8787,0.0242,2.408,2.296,2.525,1.7489558516418385e-289,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.DE],-0.0243,0.0301,0.976,0.92,1.035,0.41987438357395035,0.420,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.DK],0.9054,0.0461,2.473,2.259,2.707,6.811778810831696e-86,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.EE],0.4293,0.0245,1.536,1.464,1.612,5.159570490446579e-69,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.ES],0.9312,0.0268,2.538,2.408,2.674,4.808229409355649e-265,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.FI],0.3488,0.0429,1.417,1.303,1.542,4.479098400645513e-16,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.FR],1.0614,0.0197,2.89,2.781,3.004,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.GR],1.7667,0.0283,5.851,5.536,6.185,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.HR],0.8531,0.0198,2.347,2.258,2.44,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.HU],0.4983,0.028,1.646,1.558,1.739,7.780046948273556e-71,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.IE],0.8392,0.0233,2.314,2.211,2.423,5.045452981284048e-283,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.IT],0.8878,0.0195,2.43,2.339,2.524,0.0,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.LT],0.4438,0.0256,1.559,1.482,1.639,4.4447866261240266e-67,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.LU],0.3085,0.0299,1.361,1.284,1.444,6.899209918954455e-25,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.LV],0.5733,0.0247,1.774,1.69,1.862,1.7126180476935705e-119,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.MT],0.6469,0.0332,1.91,1.789,2.038,1.7367563478626038e-84,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.NL],0.7317,0.0553,2.079,1.865,2.317,6.198635937788282e-40,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.PL],0.6063,0.0273,1.834,1.738,1.934,1.292571670221218e-109,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.PT],0.7905,0.0223,2.205,2.11,2.303,1.540016331915101e-275,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.RO],0.2638,0.0408,1.302,1.202,1.41,1.0251853097953741e-10,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.SE],0.7466,0.0595,2.11,1.878,2.371,4.038897368113038e-36,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.SI],0.377,0.0177,1.458,1.408,1.509,1.0475620546106417e-100,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.SK],0.1205,0.0195,1.128,1.086,1.172,6.294897549572339e-10,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(gender)[T.2],-0.0509,0.0672,0.95,0.833,1.084,0.4492540405806301,0.449,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(gender)[T.3],-0.4362,0.3153,0.647,0.348,1.199,0.16657310622816812,0.167,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.11],-0.3884,0.1511,0.678,0.504,0.912,0.010165431455111593,0.010,*
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.12],-0.2421,0.1126,0.785,0.63,0.979,0.03155132027030443,0.032,*
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.13],0.1564,0.1089,1.169,0.945,1.448,0.15105586047853284,0.151,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.14],0.1929,0.1476,1.213,0.908,1.62,0.1912261337257657,0.191,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.15],0.2465,0.152,1.28,0.95,1.724,0.10486545042508608,0.105,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.16],0.302,0.2154,1.353,0.887,2.063,0.16093463031578792,0.161,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.17],0.4792,0.1595,1.615,1.181,2.207,0.0026593919857737674,0.003,**
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.18],0.8715,0.1494,2.39,1.784,3.204,5.437228503799972e-09,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(workplace_size)[T.2],-0.067,0.1937,0.935,0.64,1.367,0.7293625697564399,0.729,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(workplace_size)[T.3],-0.1372,0.1834,0.872,0.609,1.249,0.4544145782234206,0.454,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(workplace_size)[T.4],-0.2858,0.1888,0.751,0.519,1.088,0.13001737890212192,0.130,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,C(workplace_size)[T.5],-0.2449,0.1819,0.783,0.548,1.118,0.17831784154537522,0.178,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,public_sector,0.0708,0.0666,1.073,0.942,1.223,0.28735787125560863,0.287,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,age,0.0076,0.0019,1.008,1.004,1.011,7.022446207872257e-05,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,education_age,-0.0099,0.0055,0.99,0.98,1.001,0.06988806566781201,0.070,
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,digital_skill_job,-0.4224,0.0542,0.655,0.589,0.729,6.157736359373732e-15,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,automated_monitoring_exposure,-1.0118,0.0914,0.364,0.304,0.435,1.8205570151723737e-28,< .001,***
+not_informed,기술 사용 사실 무고지,Model 3,Cluster-robust SE by country,automated_performance_management_exposure,-0.9558,0.092,0.385,0.321,0.46,2.7029277211310428e-25,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,Intercept,-1.957,0.018,0.141,0.136,0.146,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.BE],0.1971,0.0047,1.218,1.207,1.229,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.BG],0.2158,0.003,1.241,1.234,1.248,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.CY],0.5552,0.0031,1.742,1.732,1.753,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.CZ],0.2795,0.0019,1.322,1.317,1.327,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.DE],0.1813,0.0059,1.199,1.185,1.213,7.974861117278433e-208,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.DK],0.6368,0.0132,1.89,1.842,1.94,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.EE],0.7479,0.0031,2.112,2.1,2.125,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.ES],0.4981,0.0035,1.646,1.634,1.657,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.FI],1.2848,0.0112,3.614,3.536,3.694,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.FR],0.661,0.0016,1.937,1.931,1.943,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.GR],0.1488,0.0066,1.16,1.145,1.176,1.6638930569240042e-111,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.HR],-0.2553,0.0018,0.775,0.772,0.777,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.HU],-0.5042,0.0066,0.604,0.596,0.612,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.IE],0.7632,0.0022,2.145,2.136,2.155,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.IT],-0.1102,0.0008,0.896,0.894,0.897,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.LT],0.7772,0.0012,2.175,2.17,2.18,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.LU],1.3436,0.0187,3.833,3.695,3.976,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.LV],1.3126,0.0009,3.716,3.709,3.723,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.MT],1.2564,0.0106,3.513,3.44,3.587,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.NL],0.4632,0.0084,1.589,1.563,1.615,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.PL],0.0395,0.0059,1.04,1.028,1.052,2.5098477658628096e-11,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.PT],-0.0113,0.0034,0.989,0.982,0.995,0.0009571826540230005,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.RO],0.0446,0.0065,1.046,1.032,1.059,5.331886608024965e-12,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.SE],0.7336,0.0184,2.083,2.009,2.159,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.SI],0.769,0.0036,2.158,2.143,2.173,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,C(country_fe)[T.SK],0.5485,0.0021,1.731,1.723,1.738,0.0,< .001,***
+basic_notification_only,단순 고지,Model 1,Cluster-robust SE by country,public_sector,0.1213,0.0666,1.129,0.991,1.286,0.06868478644874536,0.069,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,Intercept,-3.5317,0.3631,0.029,0.014,0.06,2.352610914183502e-22,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.BE],0.3169,0.0216,1.373,1.316,1.432,9.377244502775324e-49,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.BG],0.3369,0.0227,1.401,1.34,1.464,1.045815430820879e-49,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.CY],0.6305,0.0181,1.879,1.813,1.946,4.388498893997921e-266,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.CZ],0.3247,0.0195,1.384,1.332,1.437,1.6046957517565374e-62,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.DE],0.3335,0.0131,1.396,1.36,1.432,2.9783530103836385e-143,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.DK],0.5122,0.0368,1.669,1.553,1.794,4.2843561859911457e-44,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.EE],0.7403,0.0198,2.097,2.017,2.18,6.701954982152115e-305,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.ES],0.4581,0.0226,1.581,1.512,1.653,3.678200204173538e-91,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.FI],1.1283,0.0327,3.091,2.899,3.295,2.3463167648123624e-261,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.FR],0.6453,0.0182,1.907,1.84,1.976,1.0494213326965515e-276,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.GR],0.2205,0.0277,1.247,1.181,1.316,1.7603778395587485e-15,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.HR],-0.0662,0.0214,0.936,0.898,0.976,0.0019968762199742574,0.002,**
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.HU],-0.2525,0.0214,0.777,0.745,0.81,4.818243163714411e-32,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.IE],0.77,0.0197,2.16,2.078,2.245,0.0,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.IT],-0.0412,0.0251,0.96,0.914,1.008,0.10061700666114075,0.101,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.LT],0.7446,0.0212,2.106,2.02,2.195,2.1598348325893557e-271,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.LU],1.2663,0.0239,3.548,3.386,3.718,0.0,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.LV],1.3679,0.0202,3.927,3.774,4.086,0.0,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.MT],1.2589,0.0325,3.522,3.304,3.753,0.0,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.NL],0.1509,0.0392,1.163,1.077,1.256,0.00011762330758260601,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.PL],0.1575,0.0271,1.171,1.11,1.234,5.881655482691999e-09,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.PT],0.2476,0.0199,1.281,1.232,1.332,1.619447535067868e-35,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.RO],0.2215,0.0276,1.248,1.182,1.317,1.060779211283154e-15,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.SE],0.4881,0.0522,1.629,1.471,1.805,8.51156159991453e-21,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.SI],0.7588,0.0151,2.136,2.073,2.2,0.0,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(country_fe)[T.SK],0.7162,0.0167,2.047,1.981,2.115,0.0,< .001,***
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(gender)[T.2],-0.0574,0.0679,0.944,0.827,1.078,0.3972566178876584,0.397,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(gender)[T.3],-0.1806,0.9828,0.835,0.122,5.729,0.8541885685560817,0.854,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.11],0.0798,0.1307,1.083,0.838,1.399,0.5415747144841708,0.542,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.12],0.1405,0.1091,1.151,0.929,1.425,0.19782299581351037,0.198,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.13],0.0924,0.1178,1.097,0.871,1.382,0.43315437358087117,0.433,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.14],0.0843,0.18,1.088,0.765,1.548,0.6395651078614477,0.640,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.15],0.0291,0.154,1.029,0.761,1.392,0.8503085845437175,0.850,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.16],-0.0774,0.1893,0.925,0.639,1.341,0.6824840664162752,0.682,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.17],-0.07,0.1086,0.932,0.754,1.154,0.5192004206959122,0.519,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(occupation_code)[T.18],-0.133,0.1505,0.875,0.652,1.176,0.37681175618520235,0.377,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(workplace_size)[T.2],0.1251,0.2106,1.133,0.75,1.712,0.5524744197059115,0.552,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(workplace_size)[T.3],0.2757,0.2024,1.317,0.886,1.959,0.17317929399966014,0.173,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(workplace_size)[T.4],0.2747,0.1984,1.316,0.892,1.942,0.16612382368126843,0.166,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,C(workplace_size)[T.5],0.431,0.2092,1.539,1.021,2.318,0.03935911716691292,0.039,*
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,public_sector,0.0213,0.0633,1.022,0.902,1.156,0.7364105837315418,0.736,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,age,-0.0023,0.0028,0.998,0.992,1.003,0.4032474124590818,0.403,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,education_age,0.0008,0.005,1.001,0.991,1.011,0.8716910668901854,0.872,
+basic_notification_only,단순 고지,Model 2,Cluster-robust SE by country,digital_skill_job,0.458,0.0605,1.581,1.404,1.78,3.620712047568043e-14,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,Intercept,-3.9223,0.346,0.02,0.01,0.039,8.79760401401328e-30,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.BE],0.4552,0.022,1.576,1.51,1.646,6.635235748663064e-95,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.BG],0.5044,0.0279,1.656,1.568,1.749,3.046633337778352e-73,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.CY],0.7039,0.019,2.022,1.948,2.098,1.0053433147548911e-301,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.CZ],0.5304,0.022,1.7,1.628,1.775,2.354331645666183e-128,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.DE],0.5176,0.0183,1.678,1.619,1.739,1.3104166607824348e-176,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.DK],0.7217,0.0481,2.058,1.873,2.262,7.871571670823938e-51,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.EE],0.8719,0.0205,2.391,2.297,2.489,0.0,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.ES],0.689,0.0237,1.992,1.901,2.086,2.2304135345965594e-186,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.FI],1.2141,0.0387,3.367,3.122,3.632,1.9653065053716593e-216,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.FR],0.7972,0.0176,2.219,2.144,2.297,0.0,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.GR],0.4115,0.0343,1.509,1.411,1.614,3.9688609078133365e-33,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.HR],0.1112,0.0207,1.118,1.073,1.164,7.189061108381731e-08,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.HU],-0.125,0.0201,0.882,0.848,0.918,5.371394174251928e-10,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.IE],0.8699,0.0219,2.387,2.286,2.492,0.0,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.IT],0.0361,0.0266,1.037,0.984,1.092,0.1751594142234385,0.175,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.LT],0.9046,0.0265,2.471,2.346,2.603,1.8687970136144305e-254,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.LU],1.3946,0.0257,4.033,3.835,4.241,0.0,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.LV],1.4876,0.0237,4.426,4.225,4.637,0.0,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.MT],1.3191,0.0332,3.74,3.504,3.991,0.0,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.NL],0.4271,0.0508,1.533,1.388,1.693,4.056479399859964e-17,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.PL],0.2958,0.0259,1.344,1.278,1.414,3.737833773107523e-30,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.PT],0.3415,0.0197,1.407,1.354,1.462,1.3846967302018405e-67,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.RO],0.2608,0.0291,1.298,1.226,1.374,3.2554077971823916e-19,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.SE],0.7525,0.0598,2.122,1.887,2.386,2.7972112242505228e-36,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.SI],0.8897,0.0201,2.434,2.34,2.532,0.0,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(country_fe)[T.SK],0.7632,0.0198,2.145,2.063,2.23,0.0,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(gender)[T.2],-0.0719,0.066,0.931,0.818,1.059,0.2756906575871514,0.276,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(gender)[T.3],-0.2852,0.9254,0.752,0.123,4.611,0.7579669867552288,0.758,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.11],0.0866,0.1309,1.09,0.844,1.409,0.5083090594165924,0.508,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.12],0.1682,0.1055,1.183,0.962,1.455,0.11082893068257768,0.111,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.13],0.1106,0.1093,1.117,0.902,1.384,0.31129577850032586,0.311,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.14],0.0563,0.1789,1.058,0.745,1.502,0.7530956616585249,0.753,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.15],0.0678,0.1507,1.07,0.796,1.438,0.6527465417857773,0.653,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.16],-0.0708,0.1884,0.932,0.644,1.348,0.7071658203968774,0.707,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.17],-0.0427,0.1072,0.958,0.777,1.182,0.6907923665286813,0.691,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(occupation_code)[T.18],-0.0867,0.1568,0.917,0.674,1.247,0.5804111417717417,0.580,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(workplace_size)[T.2],0.214,0.1974,1.239,0.841,1.824,0.2783458831862722,0.278,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(workplace_size)[T.3],0.3034,0.1914,1.354,0.931,1.971,0.11294232041207408,0.113,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(workplace_size)[T.4],0.2586,0.1817,1.295,0.907,1.849,0.15472967301848642,0.155,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,C(workplace_size)[T.5],0.4576,0.2021,1.58,1.063,2.349,0.02359811459080846,0.024,*
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,public_sector,0.0394,0.0621,1.04,0.921,1.175,0.5255021642831285,0.526,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,age,-0.0009,0.0028,0.999,0.994,1.005,0.7523219933778192,0.752,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,education_age,0.0026,0.0054,1.003,0.992,1.013,0.6264131901927401,0.626,
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,digital_skill_job,0.4226,0.0629,1.526,1.349,1.726,1.7653666665561403e-11,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,automated_monitoring_exposure,0.5142,0.0968,1.672,1.383,2.022,1.0891041104115944e-07,< .001,***
+basic_notification_only,단순 고지,Model 3,Cluster-robust SE by country,automated_performance_management_exposure,0.0202,0.0751,1.02,0.881,1.182,0.7877312577066006,0.788,

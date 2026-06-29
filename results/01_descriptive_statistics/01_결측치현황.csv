@@ -1,0 +1,15 @@
+﻿변수명,변수 라벨,전체 N,결측 N,결측 비율(%),유효 N
+public_sector,공공부문 여부,10811,0,0.0,10811
+detailed_explanation,상세 설명 제공,10811,0,0.0,10811
+personal_data_access,개인정보 접근권 제공,10811,0,0.0,10811
+automated_analysis_access,자동화 분석 결과 접근권 제공,10811,0,0.0,10811
+not_informed,기술 사용 사실 무고지,10811,0,0.0,10811
+basic_notification_only,단순 고지,10811,0,0.0,10811
+automated_monitoring_exposure,자동화 감시 경험,10811,496,4.59,10315
+automated_performance_management_exposure,자동화 성과평가 경험,10811,502,4.64,10309
+age,연령,10811,0,0.0,10811
+gender,성별,10811,0,0.0,10811
+education_age,전일제 교육 종료 연령,10811,274,2.53,10537
+occupation_code,직업 유형,10811,0,0.0,10811
+workplace_size,조직 규모,10811,70,0.65,10741
+digital_skill_job,직무 수행 디지털 역량,10811,795,7.35,10016

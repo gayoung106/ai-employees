@@ -1,0 +1,18 @@
+﻿변수명,변수 라벨,코드,범주,비공공부문 N,비공공부문 비율(%),공공부문 N,공공부문 비율(%),"비율 차이(%p, 공공-비공공)"
+gender,성별,1,Man,4083,51.57,1049,36.25,-15.33
+gender,성별,2,Woman,3820,48.25,1840,63.58,15.33
+gender,성별,3,None of the above / Non-binary / Prefer not to say,14,0.18,5,0.17,-0.0
+occupation_code,직업 유형,10,Employed professional,478,6.04,284,9.81,3.78
+occupation_code,직업 유형,11,General management / director / top management,197,2.49,113,3.9,1.42
+occupation_code,직업 유형,12,Middle management / other management,971,12.26,816,28.2,15.93
+occupation_code,직업 유형,13,Working mainly at a desk,1671,21.11,755,26.09,4.98
+occupation_code,직업 유형,14,Not at a desk but travelling,875,11.05,66,2.28,-8.77
+occupation_code,직업 유형,15,Service job,1032,13.04,547,18.9,5.87
+occupation_code,직업 유형,16,Supervisor,270,3.41,39,1.35,-2.06
+occupation_code,직업 유형,17,Skilled manual worker,1995,25.2,198,6.84,-18.36
+occupation_code,직업 유형,18,Other employed manual worker,428,5.41,76,2.63,-2.78
+workplace_size,조직 규모,1,1,212,2.69,45,1.57,-1.13
+workplace_size,조직 규모,2,2-9,2235,28.4,354,12.33,-16.07
+workplace_size,조직 규모,3,10-49,3112,39.54,1091,38.0,-1.54
+workplace_size,조직 규모,4,50-250,1476,18.75,795,27.69,8.94
+workplace_size,조직 규모,5,More than 250,835,10.61,586,20.41,9.8
