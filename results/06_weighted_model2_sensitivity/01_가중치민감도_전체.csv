@@ -1,0 +1,9 @@
+﻿결과변수,결과변수 라벨,모형,표본 N,국가 수,수렴 여부,경고 메시지,공공부문 계수(log-odds),표준오차,오즈비(OR),OR 95% CI 하한,OR 95% CI 상한,p-value,p-value 표기,유의성,비공공부문 조정예측확률(%),공공부문 조정예측확률(%),"조정확률 차이(%p, 공공-비공공)"
+detailed_explanation,상세 설명 제공,Unweighted Model 2 (same N),9719,27,True,,-0.2267,0.0825,0.797,0.678,0.937,0.0060149466575214324,0.006,**,22.19,18.7,-3.49
+detailed_explanation,상세 설명 제공,Weighted GLM (w1 normalized),9719,27,True,cov_type not fully supported with freq_weights,-0.2243,0.0923,0.799,0.667,0.958,0.015148573045783788,0.015,*,21.96,18.53,-3.43
+personal_data_access,개인정보 접근권 제공,Unweighted Model 2 (same N),9719,27,True,,0.0426,0.0952,1.044,0.866,1.258,0.6542827979117078,0.654,,12.75,13.21,0.47
+personal_data_access,개인정보 접근권 제공,Weighted GLM (w1 normalized),9719,27,True,cov_type not fully supported with freq_weights,-0.0205,0.1053,0.98,0.797,1.204,0.8457795049326093,0.846,,12.38,12.17,-0.21
+automated_analysis_access,자동화 분석 결과 접근권 제공,Unweighted Model 2 (same N),9719,27,True,,-0.1438,0.0995,0.866,0.713,1.053,0.1484067748183241,0.148,,6.16,5.4,-0.77
+automated_analysis_access,자동화 분석 결과 접근권 제공,Weighted GLM (w1 normalized),9719,27,True,cov_type not fully supported with freq_weights,-0.1258,0.099,0.882,0.726,1.071,0.20376121727218022,0.204,,5.87,5.22,-0.65
+not_informed,기술 사용 사실 무고지,Unweighted Model 2 (same N),9719,27,True,,0.1517,0.0606,1.164,1.033,1.311,0.01238882195202738,0.012,*,42.89,46.26,3.37
+not_informed,기술 사용 사실 무고지,Weighted GLM (w1 normalized),9719,27,True,cov_type not fully supported with freq_weights,0.1765,0.0624,1.193,1.056,1.348,0.00470447051213315,0.005,**,42.34,46.25,3.91
