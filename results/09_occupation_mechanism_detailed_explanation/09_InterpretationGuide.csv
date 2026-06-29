@@ -1,0 +1,6 @@
+﻿Item,Interpretation
+Occupation composition,Shows whether public- and non-public-sector workers are distributed differently across occupation categories.
+Raw rates,Unadjusted detailed-explanation rates within each occupation. Use descriptively; individual occupation-level p-values are supplemented by FDR-adjusted values.
+Interaction Wald test,Tests whether the adjusted public-sector association differs jointly across occupation categories.
+Adjusted margins,"Within each occupation, covariates retain their observed distribution while public_sector is counterfactually set to 0 and 1. AAPD is public minus non-public."
+Interpretive limit,Do not call occupation a mediator or claim causal mechanisms. This is a composition and conditional-heterogeneity diagnostic.

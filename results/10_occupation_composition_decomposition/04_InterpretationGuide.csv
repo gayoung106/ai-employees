@@ -1,0 +1,7 @@
+﻿Item,Interpretation
+Total standardised gap,Difference between public and non-public predicted probabilities using each sector's observed occupation distribution and occupation-specific standardised predictions.
+Occupation-composition component,Portion of the gap associated with public and non-public workers being differently distributed across occupations. This is not a causal effect of occupation.
+Within-occupation sector-association component,Portion of the gap associated with different predicted public/non-public probabilities within occupation categories.
+Positive component,Contributes to a higher predicted detailed-explanation probability in the public sector.
+Negative component,Contributes to a lower predicted detailed-explanation probability in the public sector.
+Manuscript language,Use 'composition-related component' and 'within-occupation conditional association component'; do not use 'mediated effect' or 'causal mechanism'.

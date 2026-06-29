@@ -1,0 +1,7 @@
+﻿Metric,Probability,Percentage points
+Standardised public-sector predicted probability,0.205559518772422,20.5559518772422
+Standardised non-public-sector predicted probability,0.2138606149921816,21.386061499218158
+Total standardised gap (public - non-public),-0.00830109621975958,-0.830109621975958
+Occupation-composition component,0.02636132831634491,2.636132831634491
+Within-occupation sector-association component,-0.03466242453610449,-3.466242453610449
+Decomposition check (should be ~0),0.0,0.0

@@ -1,0 +1,2 @@
+﻿Comparison,N,Chi-square,df,p-value,p-value label,Significance,Cramer's V
+Public vs. non-public occupation distribution,9719,991.256,8,1.1520077568753822e-208,< .001,***,0.3194

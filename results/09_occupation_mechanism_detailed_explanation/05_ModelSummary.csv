@@ -1,0 +1,3 @@
+﻿Specification,N,Countries,Covariance estimator,Warning,Public-sector beta,SE,OR,OR 95% CI lower,OR 95% CI upper,p-value,p-value label,Significance
+Baseline Model 2 (no interaction),9719,27,Cluster-robust SE by country,,-0.2267,0.0825,0.797,0.678,0.937,0.006014946657521078,0.006,**
+Occupation interaction model (reference occupation only),9719,27,Cluster-robust SE by country,,-0.2267,0.1965,0.797,0.542,1.172,0.2485881344215084,0.249,

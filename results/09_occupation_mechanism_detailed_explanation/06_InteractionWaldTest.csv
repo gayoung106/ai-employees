@@ -1,0 +1,2 @@
+﻿Test,Status,Number of interaction parameters,Wald chi-square,df,p-value,p-value label,Significance,Interaction parameters
+Public sector × occupation interaction,Estimated,8,34.226,8,3.69727819008495e-05,< .001,***,public_sector:C(occupation_code)[T.11] | public_sector:C(occupation_code)[T.12] | public_sector:C(occupation_code)[T.13] | public_sector:C(occupation_code)[T.14] | public_sector:C(occupation_code)[T.15] | public_sector:C(occupation_code)[T.16] | public_sector:C(occupation_code)[T.17] | public_sector:C(occupation_code)[T.18]

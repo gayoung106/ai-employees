@@ -1,0 +1,10 @@
+﻿Occupation code,Occupation label,Countries represented,Countries with both sectors,Both-sector country coverage (%)
+10,"Employed professional (employed doctor, etc.)",27,25,92.59
+11,"General management, etc.",25,23,92.0
+12,"Middle management, etc.",27,27,100.0
+13,"Employed position, at desk",27,27,100.0
+14,"Employed position, travelling",27,22,81.48
+15,"Employed position, service job",27,27,100.0
+16,Supervisor,27,20,74.07
+17,Skilled manual worker,27,26,96.3
+18,"Unskilled manual worker, etc.",27,23,85.19

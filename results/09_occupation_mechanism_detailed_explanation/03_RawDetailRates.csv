@@ -1,0 +1,10 @@
+﻿Occupation code,Occupation label,Non-public N,Non-public detailed explanation N,Non-public detailed explanation (%),Public N,Public detailed explanation N,Public detailed explanation (%),Public - non-public difference (pp),Test,Chi-square,p-value,p-value label,Significance,FDR-adjusted p-value,FDR-adjusted p-value label,FDR significance
+10,"Employed professional (employed doctor, etc.)",451,121,26.83,265,60,22.64,-4.19,Pearson chi-square,1.55,0.21316983904444384,0.213,,0.6395095171333316,0.640,
+11,"General management, etc.",189,63,33.33,110,18,16.36,-16.97,Pearson chi-square,10.138,0.001452803596490782,0.001,**,0.0065376161842085195,0.007,**
+12,"Middle management, etc.",917,280,30.53,787,169,21.47,-9.06,Pearson chi-square,17.915,2.309859964579995e-05,< .001,***,0.00020788739681219955,< .001,***
+13,"Employed position, at desk",1542,336,21.79,703,159,22.62,0.83,Pearson chi-square,0.192,0.6609583388978036,0.661,,0.9014017380226855,0.901,
+14,"Employed position, travelling",776,152,19.59,55,10,18.18,-1.41,Pearson chi-square,0.065,0.7992535629700676,0.799,,0.9014017380226855,0.901,
+15,"Employed position, service job",902,188,20.84,493,104,21.1,0.25,Pearson chi-square,0.012,0.9116721613565286,0.912,,0.9116721613565286,0.912,
+16,Supervisor,234,43,18.38,34,4,11.76,-6.61,Pearson chi-square,0.897,0.34351576472946477,0.344,,0.7278310956573021,0.728,
+17,Skilled manual worker,1723,292,16.95,160,23,14.37,-2.57,Pearson chi-square,0.695,0.40435060869850115,0.404,,0.7278310956573021,0.728,
+18,"Unskilled manual worker, etc.",324,30,9.26,54,4,7.41,-1.85,Fisher exact,,0.8012459893534982,0.801,,0.9014017380226855,0.901,
