@@ -1,0 +1,5 @@
+﻿Outcome,Full beta,Jackknife SE,Jackknife t,Jackknife p (df=G-1),Jackknife successful clusters,Jackknife total clusters,Jackknife status
+detailed_explanation,-0.22669005917000584,0.08294857973771304,-2.7328986208903094,0.01113887512158453,27,27,REPORTED
+personal_data_access,0.04264892604796657,0.09525443977504285,0.44773688395720124,0.6580515129244968,27,27,REPORTED
+automated_analysis_access,-0.1438481783572791,,,,5,27,NOT REPORTED: at least one leave-one-country model failed to converge.
+not_informed,0.1516698237032266,0.06077151739956198,2.495738632063839,0.019242076595875388,27,27,REPORTED

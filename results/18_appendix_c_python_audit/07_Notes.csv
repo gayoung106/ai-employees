@@ -1,0 +1,7 @@
+﻿Item,Detail
+Interpretation of this audit,This is a Python-only reproducibility and small-cluster audit. It does not claim that a second external software implementation reproduced WCLR.
+WCLR reporting rule,Report WCLR-C/WCLR-S only when the restricted logit model converges. A non-convergent restricted model invalidates restricted-bootstrap p-values.
+Independent check,The leave-one-country cluster jackknife refits 27 adjusted logit models and is independent of the linearized WCLR calculation.
+Primary WCLR statistic,Use WCLR-S as the primary bootstrap sensitivity statistic and WCLR-C as a transparent companion statistic only for convergent restricted models.
+RQ3 handling,"If the restricted RQ3 logit remains non-convergent, enter em dashes for WCLR-C/WCLR-S in Appendix C and state the reason in a footnote."
+Final-replication setting,"Final WCLR results use 29,999 Rademacher draws with seed 20260630. Monte-Carlo audit uses 3 seeds x 9,999 draws."

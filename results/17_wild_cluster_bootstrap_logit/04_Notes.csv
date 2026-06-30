@@ -1,0 +1,6 @@
+﻿Item,Detail
+Primary bootstrap inference,Use WCLR-S symmetric p-value as the primary wild-cluster-bootstrap sensitivity result.
+Supplementary bootstrap inference,Report WCLR-C symmetric p-value alongside WCLR-S in the appendix for transparency.
+Null hypothesis,H0: public_sector coefficient = 0 in each adjusted country-FE logit model.
+Model specification,"Country FE, age, gender, education age, occupation, workplace size, and digital skill."
+Interpretation,WCLR p-values are a small-cluster inference check; they do not change ORs or AAPDs from Table 2.
